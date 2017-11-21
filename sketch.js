@@ -9,7 +9,7 @@ var puoCamminare = true;
 var timer = 0;
 var soglia = 10;
 var sensMin = .05;
-var sensMed = .6;
+var sensMed = .4;
 var sensAlt = 1;
 var sfondoPrimo;
 var sfondoMorte;
